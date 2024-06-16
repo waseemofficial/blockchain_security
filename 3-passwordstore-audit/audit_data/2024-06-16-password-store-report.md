@@ -213,8 +213,8 @@ if (msg.sender != s_owner) {
 
 # Low Risk Findings
 
-## <a id='L-01'></a>L-01. Initialization Timeframe Vulnerability
-
+## <div id='L-01'></div>L-01. Initialization Timeframe Vulnerability
+\section{Initialization Timeframe Vulnerability}\label{l-01-initialization-timeframe-vulnerability} $
 _Submitted by [dianivanov](/profile/clo3cuadr0017mp08rvq00v4e)._      
 				
 ### Relevant GitHub Links
