@@ -89,3 +89,32 @@ The Rekt Test Questions
    11. Do you undergo external audits and maintain a vulnerability disclosure or bug bounty program?
    12. Have you considered and mitigated avenues for abusing users of your system?
 ```
+
+<br>
+
+## How to Evaluate Findings Impact on the protocol:
+
+https://docs.codehawks.com/hawks-auditors/how-to-evaluate-a-finding-severity
+
+<br>
+
+```
+High Impact:
+
+    1. Funds are directly or nearly directly at risk.
+
+    2. There's a severe disruption of protocol functionality or availability.
+
+Medium Impact:
+
+    1. Funds are indirectly at risk.
+
+    2. There's some level of disruption to the protocol's functionality or availability.
+
+Low Impact:
+
+    1. Funds are not at risk.
+
+    2. However, a function might be incorrect, state might not be handled appropriately, etc.
+
+```
