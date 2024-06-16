@@ -118,3 +118,10 @@ Low Impact:
     2. However, a function might be incorrect, state might not be handled appropriately, etc.
 
 ```
+
+## Static Analysis tools:
+
+- Slither
+  - `slither .`
+- Aderyn
+  - `aderyn --root .`
