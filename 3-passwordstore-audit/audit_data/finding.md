@@ -1,6 +1,6 @@
 ---
 title: PasswordStore Audit Report
-author: YOUR_NAME_HERE
+author: Waseem
 date: September 1, 2023
 header-includes:
   - \usepackage{titling}
@@ -10,14 +10,14 @@ header-includes:
     \centering
     \begin{figure}[h]
         \centering
-        \includegraphics[width=0.5\textwidth]{logo.pdf} 
+        \includegraphics[width=0.5\textwidth]{audit_logo_1.pdf} 
     \end{figure}
     \vspace*{2cm}
     {\Huge\bfseries PasswordStore Initial Audit Report\par}
     \vspace{1cm}
     {\Large Version 0.1\par}
     \vspace{2cm}
-    {\Large\itshape Cyfrin.io\par}
+    {\Large\itshape waseem\par}
     \vfill
     {\large \today\par}
 \end{titlepage}

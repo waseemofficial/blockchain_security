@@ -1,8 +1,10 @@
 ## usefull commands
 
+`git rm --cached <folderName> -f`
 `forge inspect <Name of file> methods`
 `forge coverage`
 `sliither .`
+`slither . --exclude-dependencies` exclude's external libraries
 `aderyn --root .`
 `pandoc <Source fileName>.md -o <name of report>.pdf --from markdown --template=<templet>.latex --listings`
 
