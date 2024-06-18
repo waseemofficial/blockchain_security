@@ -13,3 +13,5 @@
 `https://www.codehawks.com/contests`
 `https://www.damnvulnerabledefi.xyz/`
 `https://github.com/Cyfrin/sc-exploits-minimized`
+`https://solodit.xyz/` best for research
+`https://app.hats.finance/`
