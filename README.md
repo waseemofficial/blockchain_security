@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fwaseemofficial%2blockchain_security.json%3Fcolor%3Dpink"/>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fwaseemofficial%2Fblockchain_security.json%3Fcolor%3Dpink"/>
 
 <p align="center" >
 <div align="center" >
@@ -43,6 +43,9 @@
 ![Foundry](https://img.shields.io/badge/-Foundry-000?&logo=Foundry)
 ![GithubActions](https://img.shields.io/badge/-GithubActions-000?&logo=GithubActions)
 </div>
+
+---
+
 <div align="left">
  
 
